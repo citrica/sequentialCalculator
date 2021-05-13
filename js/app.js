@@ -76,6 +76,7 @@ var clickSum = () => {
     }
     clearInput();
 }
+
 var clickSubtract = () => {
     values();
     if (emptyValue(data.valueB)) {
@@ -86,6 +87,7 @@ var clickSubtract = () => {
     }
     clearInput();
 }
+
 var clicktMultiplication = () => {
     values();
     if (emptyValue(data.valueB)) {
@@ -96,6 +98,7 @@ var clicktMultiplication = () => {
     }
     clearInput();
 }
+
 var clickDivision = () => {
     values();
     if (emptyValue(data.valueB)) {
